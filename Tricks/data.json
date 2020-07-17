@@ -1,0 +1,15 @@
+[{
+    "ebeln":1,
+    "werks":"DE1",
+    "bukrs":1000
+},
+{
+    "ebeln":2,
+    "werks":"DE2",
+    "bukrs":2000
+},
+{
+    "ebeln":3,
+    "werks":"DE3",
+    "bukrs":3000
+}]

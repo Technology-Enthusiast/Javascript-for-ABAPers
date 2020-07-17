@@ -1,0 +1,39 @@
+{
+    "ekko": [
+      {
+        "ebeln": 1,
+        "werks":"DE01",
+        "bukrs":"0001"
+      },
+      {
+        "ebeln": 2,
+        "werks":"DE02",
+        "bukrs":"0002"
+      },
+      {
+        "ebeln": 3,
+        "werks":"DE03",
+        "bukrs":"0003"
+      }
+    ],
+    "ekpo": [
+        {
+            "ebeln": 1,
+            "ebelp":10,
+            "dmbtr":10,
+            "matnr":"MAT1"
+        },
+        {
+            "ebeln": 2,
+            "ebelp":10,
+            "dmbtr":25,
+            "matnr":"MAT2"
+        },
+        {
+            "ebeln": 3,
+            "ebelp":10,
+            "dmbtr":30,
+            "matnr":"MAT3"
+        }
+      ]
+  }

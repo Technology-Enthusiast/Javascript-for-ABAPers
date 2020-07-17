@@ -1,0 +1,9 @@
+
+### EKKO Request
+GET http://localhost:3000/ekko HTTP/1.1
+
+### EKPO Request
+GET http://localhost:3000/ekpo HTTP/1.1
+
+### EKPO with filter
+GET http://localhost:3000/ekpo?ebeln=1 HTTP/1.1

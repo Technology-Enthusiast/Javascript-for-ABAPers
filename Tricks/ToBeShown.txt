@@ -1,0 +1,6 @@
+- json replacement
+- F2 to rename the function definition all at once
+- Zen mode
+- sHIT alt DOWN/UP COPY //// THEN ALT DOWN UP FOR MOVING LINES UP DOWN/ ALT+SHIFT+RIGHT TWICE SELECT TWICE/ Alt Z
+- code diff
+- user snippets
